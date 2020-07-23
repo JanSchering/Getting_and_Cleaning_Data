@@ -5,7 +5,7 @@ The Aim of this Project is to provide cleaned Data Sets from the Raw Data of:
 "Human Activity Recognition Using Smartphones Data Set" Provided by the Center for Machine Learning and and Intelliigent Systems. 
 
 ## Getting the raw Data
-The Raw Dataset can be found in "./getdata_projectfiles_UCI HAR Dataset.zip"
+The Raw Dataset can be found in "./getdata_projectfiles_UCI HAR Dataset(1).zip"
 Aswell as https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 1. The first step necessary For the Project is to get the compressed Dataset from the above sources and unpack it into the root folder of this project as "UCI HAR Dataset"
