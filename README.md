@@ -24,6 +24,9 @@ Additionally, the contained Variables of the raw Data got reduced to only the me
 ###Average_By_Subj_and_Activity.Rda
 This is an R Object, created with the "deplyr" package. THrough the group_by() function, The Data of the Data_Combined_And_Tidied Dataset got grouped by Subject and Activity. The Object contains the average of the variables, dependent on Subject and Activity.  
 
+###tidy_data.txt 
+Contains the content of the Average_By_Subj_and_Activity.Rda in .txt format for use outside of R. 
+
 ## Further Information on the variables
 For more information on the variables in the Tidy Datasets, refer to the "./CodeBook" folder containing all necessary information. 
 
